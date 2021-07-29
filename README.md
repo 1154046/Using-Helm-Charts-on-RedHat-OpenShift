@@ -7,7 +7,7 @@ Repo for Deploy Java-based applications using Helm Charts on Red Hat OpenShift 4
 ### Prerequisites:
   - oc client( https://docs.openshift.com/container-platform/4.2/cli_reference/openshift_cli/getting-started-cli.html )
   - helm ( https://helm.sh/docs/intro/install/ )
-  - Provision an OpenShift Cluster (https://helm-os.mybluemix.net/) where key=oslab and IBMid = Your email used to create IBM Cloud Account. You will receive an email with an invitation to join the Advowork Cloud Account, you need to confirm before having access to the cluster.
+  - Provision an OpenShift Cluster (https://helm-os.mybluemix.net/) where key=oslab and IBMid=Your email used to create IBM Cloud Account. You will receive an email with an invitation to join the Advowork Cloud Account, you need to confirm before having access to the cluster.
 
 ####
 ### Step 1: Log in to your OpenShift Cluster
