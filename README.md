@@ -101,7 +101,9 @@ Change account from "Administator" to "Developer". Click on "Add" on your sideba
 
 Scroll all the way down and select the Quarkus vX.X.X chart. Then click on install chart.
 
-Should you wish to add an existing project repo, change the "configure via" option to "YAML view" and add a custom uri.
+Should you wish to add an existing project repo, change the "configure via" option to "YAML view" and add a custom uri. You also have the option of integrating an existing landmark helm chart from https://github.com/IBM/landmark. 
+
+#### Please note: The stable/progresql is depreciated, you may use bitnami/progresql as a possible alternative.
 
 Click on install and give your project a few minutes to build and deploy. 
 
