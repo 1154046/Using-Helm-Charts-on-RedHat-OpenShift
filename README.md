@@ -75,7 +75,7 @@ $ oc policy add-role-to-user edit "system:serviceaccount:${TILLER_NAMESPACE}:til
 ####
 ### Step 7: Install a trusted Helm Chart
 ```
-$ helm install --generate-name https://github.com/jim-minter/nodejs-ex/raw/helm/helm/nodejs-0.1.tgz -n nodejs-ex
+$ helm install --generate-name https://github.com/jim-minter/nodejs-ex/raw/helm/helm/nodejs-0.1.tgz
 ```
 
 ### Step 8: Verify installation in the OpenShift Console
